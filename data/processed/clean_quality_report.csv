@@ -1,0 +1,6 @@
+dataset,raw_rows,clean_rows,rows_removed,duplicate_rows,missing_cells
+customers,5060,5000,60,0,189
+campaigns,41,39,2,0,0
+responses,15075,7477,7598,0,0
+support_tickets,8050,6601,1449,0,5799
+transactions,12060,9862,2198,0,0

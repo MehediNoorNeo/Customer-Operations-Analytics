@@ -1,0 +1,42 @@
+campaign_id,campaign_name,channel,campaign_date,budget,objective,status,target_audience
+CMP001,New Year Promotion 01,Instagram,2026-03-15,50000.0,Conversion,Scheduled,Standard
+CMP002,Product Launch 02,sms,2026-09-13,75000.0,Awareness,Scheduled,All Customers
+CMP003,Festival Offer 03,Instagram,2026-10-08,150000.0,Retention,Active,Premium
+CMP004,New Year Promotion 04,Email,2026-03-05,50000.0,Engagement,Completed,Premium
+CMP005,Autumn Rewards 05,Google Ads,2026-03-07,150000.0,Retention,Scheduled,VIP
+CMP006,Festival Offer 06,Facebook,2026-07-12,15000.0,Awareness,Scheduled,Standard
+CMP007,Valentine Special 07,Email,2026-03-26,40000.0,Conversion,Completed,Standard
+CMP008, Festival Offer 08 ,WhatsApp,2026-02-01,15000.0,Retention,Scheduled,VIP
+CMP009,Summer Promotion 09,SMS,2026-08-13,25000.0,Engagement,Completed,VIP
+CMP010,New Year Promotion 10,SMS,2026-05-18,40000.0,Engagement,Scheduled,Standard
+CMP011, Autumn Rewards 11 ,WhatsApp,2026-02-28,40000.0,Retention,Scheduled,VIP
+CMP012,Year End Sale 12,Google Ads,2026-01-22,50000.0,Retention,Scheduled,Standard
+CMP013,Summer Promotion 13,Facebook,2026-02-14,150000.0,Engagement,Scheduled,VIP
+CMP014,Winter Sale 14,WhatsApp,2026-10-02,,Retention,Scheduled,Standard
+CMP015,Valentine Special 15,Email,2026-02-24,150000.0,Awareness,Completed,Standard
+CMP016,Summer Promotion 16,email,2026-09-30,50000.0,Conversion,Scheduled,All Customers
+CMP017,Summer Promotion 17,google ads,2026-02-14,100000.0,Awareness,Completed,Premium
+CMP018,Black Friday 18,Google Ads,2026-13-45,100000.0,Retention,Active,All Customers
+CMP019,Summer Promotion 19,Google Ads,2026-06-27,15000.0,Engagement,Scheduled,Premium
+CMP020,Spring Campaign 20,WhatsApp,2026-01-27,,Engagement,Active,Premium
+CMP021,Summer Promotion 21,Facebook,2026-04-21,50000.0,Retention,Completed,Standard
+CMP022,Product Launch 22,SMS,2026-02-01,15000.0,Awareness,Completed,Standard
+CMP023,Festival Offer 23,Instagram,2026-05-15,25000.0,Engagement,Active,All Customers
+CMP024,Valentine Special 24,Facebook,2026-01-04,15000.0,Engagement,Completed,All Customers
+CMP025, Spring Campaign 25 ,google ads,2026-08-06,15000.0,Awareness,Completed,All Customers
+CMP026,Winter Sale 26,Instagram,2026-06-10,40000.0,Engagement,Scheduled,Premium
+CMP027,Year End Sale 27,Facebook,2026-04-13,25000.0,Awareness,Completed,VIP
+CMP028,Product Launch 28,WhatsApp,2026-05-20,150000.0,Awareness,Active,VIP
+CMP029,Valentine Special 29,Instagram,2026-04-25,15000.0,Engagement,Active,Premium
+CMP030,Eid Special 30,SMS,2026-08-16,40000.0,Retention,Active,VIP
+CMP031,Year End Sale 31,SMS,2026-09-07,150000.0,Retention,Scheduled,All Customers
+CMP032,Autumn Rewards 32,sms,2026-02-06,25000.0,Engagement,Scheduled,Standard
+CMP033,Black Friday 33,Email,2026-02-15,150000.0,Engagement,Completed,Premium
+CMP034,Festival Offer 34,WhatsApp,2026-09-22,15000.0,Conversion,Completed,All Customers
+CMP035,Product Launch 35,Google Ads,2026-06-02,15000.0,Conversion,Active,All Customers
+CMP036,Year End Sale 36,Instagram,2026-09-13,-25000.0,Awareness,Active,VIP
+CMP037,Summer Promotion 37,Instagram,2026-02-21,150000.0,Retention,Scheduled,All Customers
+CMP038,Summer Promotion 38,Instagram,2026-04-18,25000.0,Retention,Completed,VIP
+CMP039, Eid Special 39 ,Google Ads,2026-05-03,150000.0,Conversion,Scheduled,Standard
+CMP040,Valentine Special 40,Instagram,2026-03-08,150000.0,Engagement,Completed,Premium
+CMP006,Festival Offer 06,Facebook,2026-07-12,15000.0,Awareness,Scheduled,Standard

@@ -1,0 +1,4 @@
+dataset,rule,rows_excluded
+responses,response on/after signup and campaign date,7052
+support_tickets,ticket on/after signup date,1384
+transactions,transaction on/after signup date,2053

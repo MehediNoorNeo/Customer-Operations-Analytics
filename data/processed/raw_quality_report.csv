@@ -1,0 +1,6 @@
+Dataset,Rows,Columns,Duplicate Rows,Missing Cells,Missing %
+Customers,5060,7,40,267,0.75
+Campaigns,41,8,1,2,0.61
+Responses,15075,6,75,70,0.08
+Support Tickets,8050,8,50,7079,10.99
+Transactions,12060,7,60,155,0.18
